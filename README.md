@@ -1,3 +1,6 @@
+# Slides:
+https://docs.google.com/presentation/d/1EMDO9gOJ_zo-1ZIe-Os1tx40hJTVLY9uYBZjlvNIJSs/edit?usp=sharing
+
 # Tutorial:
 # https://tech-habit.info/posts/https-cert-based-auth-with-flask-and-gunicorn/
 
